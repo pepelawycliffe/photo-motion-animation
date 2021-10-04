@@ -5,8 +5,8 @@ Animation creator with intuitive arrows sets photo motion direction. Background 
 
 
 
-screeshot
-<img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/1.png" width="400">
+screeshot<br>
+<img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/1.png" width="400"><br>
 <img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/2.png" width="400"><br>
 <img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/3.png" width="400"><br>
 <img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/4.png" width="400"><br>
