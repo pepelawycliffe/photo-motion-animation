@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185293289103",
+    "project_id": "photo-motion-55d25",
+    "storage_bucket": "photo-motion-55d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185293289103:android:4d5d9ba504465193d162fa",
+        "android_client_info": {
+          "package_name": "com.codeshare.photomotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185293289103-viiipv6s4av057nbgn9l2136jtnk0i1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUuKeUYx--KbN_FeV-8fmXxmD9aSdccQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185293289103-viiipv6s4av057nbgn9l2136jtnk0i1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
