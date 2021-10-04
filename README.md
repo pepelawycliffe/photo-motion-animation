@@ -1,6 +1,8 @@
 # photo-motion-animation
 photo-motion-animation
 
+Animation creator with intuitive arrows sets photo motion direction. Background changer with stunning filters. Animation effects for pictures with overlays, sparkles, and more. Picture effect editor. Auto Play Create live wallpaper with glitch effects.
+
 
 
 screeshot
